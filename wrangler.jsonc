@@ -1,0 +1,8 @@
+{
+  "name": "innermost-notify",
+  "main": "notify-worker.js",
+  "compatibility_date": "2026-07-18",
+  "triggers": {
+    "crons": ["*/15 * * * *"]
+  }
+}
