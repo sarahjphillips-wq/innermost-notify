@@ -179,4 +179,3 @@ async function sendWebPush(subscription, payloadObj, env) {
     throw err;
   }
 }
-
